@@ -1,0 +1,27 @@
+{
+    "0": {
+        "firstName": "ho",
+        "lastName": "phat",
+        "dateOfBirth": "2024-11-13",
+        "address": "vietnam",
+        "contractPeriod": "123",
+        "hourlyRate": "123"
+    },
+    "2": {
+        "firstName": "ho",
+        "lastName": "phat",
+        "dateOfBirth": "2024-11-12",
+        "address": "vietnam",
+        "contractPeriod": "123",
+        "hourlyRate": "312"
+    },
+    "4": {
+        "firstName": "ho",
+        "lastName": "phat",
+        "dateOfBirth": "2024-11-05",
+        "address": "vietnam",
+        "jobPosition": "gi\u00e1m \u0111\u1ed1c",
+        "salary": "132",
+        "team": "32"
+    }
+}

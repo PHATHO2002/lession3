@@ -1,0 +1,3 @@
+-kế thừa giúp tái sử dụng code giảm sự trùng lặp dễ dàng bảo trì code và mở rộng code
+-bao đóng giúp bảo vệ dữ liệu an toàn hơn
+-PHP không yêu cầu từ khóa đặc biệt khi ghi đè phương thức, điều này giúp việc ghi đè trở nên đơn giản hơn.
