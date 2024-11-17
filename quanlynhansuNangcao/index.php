@@ -1,4 +1,7 @@
 <?php
+
+namespace quanlynhansuNangCao;
+
 class Person
 {
     private $firstName;
@@ -400,7 +403,7 @@ $quanly = new EmployeeManager();
         </div>
         <div class="">
             <label for="email">Team</label>
-            <input type="number" name="team">
+            <input type="text" name="team">
         </div>
         <div class="">
             <label for="email">contractPeriod</label>

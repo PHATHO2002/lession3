@@ -1,4 +1,7 @@
 <?php
+
+namespace quanlynhansu;
+
 class Person
 {
     private $firstName;
